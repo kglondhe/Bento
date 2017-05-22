@@ -1,0 +1,32 @@
+{
+"singleClip" : 
+	{	
+		"shared": {"mgid1", "mgid2"},
+		"android": {"mgid1", "mgid2"},
+		"ios": {"mgid1", "mgid2"}
+	},
+"fullEpisode" : 
+	{	
+		"shared": {"mgid1", "mgid2"},
+		"android": {"mgid1", "mgid2"},
+		"ios": {"mgid1", "mgid2"}
+	},
+"playlist" : 
+	{	
+		"shared": {"mgid1", "mgid2"},
+		"android": {"mgid1", "mgid2"},
+		"ios": {"mgid1", "mgid2"}
+	},
+"liveStream" : 
+	{	
+		"shared": {"mgid1", "mgid2"},
+		"android": {"mgid1", "mgid2"},
+		"ios": {"mgid1", "mgid2"}
+	},
+"monolithic" : 
+	{	
+		"shared": {"mgid1", "mgid2"},
+		"android": {"mgid1", "mgid2"},
+		"ios": {"mgid1", "mgid2"}
+	}				
+}
